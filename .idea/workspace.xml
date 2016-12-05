@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1fa0d02-696d-4308-b9b1-e3675b93236a" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\slicing\GitHub\atlantida\images\backgr_tabs.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.html" afterPath="$PROJECT_DIR$/blog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog_with_sidebar.html" afterPath="$PROJECT_DIR$/blog_with_sidebar.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/post_with_sidebar.html" afterPath="$PROJECT_DIR$/post_with_sidebar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
     </list>
     <ignored path="atlantida.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,10 +30,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="45" selection-start="102" selection-end="102" vertical-scroll-proportion="0.081437126" vertical-offset="0" max-vertical-offset="12886">
+            <state line="654" column="18" selection-start="35286" selection-end="35286" vertical-scroll-proportion="-427.6154" vertical-offset="0" max-vertical-offset="12699">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1394">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="440" column="9" selection-start="20696" selection-end="20696" vertical-scroll-proportion="-146.66667" vertical-offset="0" max-vertical-offset="8857">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog_with_sidebar.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog_with_sidebar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="495" column="36" selection-start="25149" selection-end="25149" vertical-scroll-proportion="-10.54902" vertical-offset="7877" max-vertical-offset="8755">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post_with_sidebar.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/post_with_sidebar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="451" column="0" selection-start="20869" selection-end="24352" vertical-scroll-proportion="-30.807692" vertical-offset="6866" max-vertical-offset="7803">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="12" selection-start="1421" selection-end="1427" vertical-scroll-proportion="-11.12" vertical-offset="147" max-vertical-offset="34986">
               <folding />
             </state>
           </provider>
@@ -52,6 +102,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/blog.html" />
+        <option value="$PROJECT_DIR$/blog_with_sidebar.html" />
+        <option value="$PROJECT_DIR$/post_with_sidebar.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -107,6 +161,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atlantida" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atlantida" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atlantida" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atlantida" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atlantida" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atlantida" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -116,6 +212,35 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -162,9 +287,44 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="12" selection-start="1421" selection-end="1427" vertical-scroll-proportion="-11.12" vertical-offset="147" max-vertical-offset="34986">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post_with_sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="451" column="0" selection-start="20869" selection-end="24352" vertical-scroll-proportion="-30.807692" vertical-offset="6866" max-vertical-offset="7803">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_with_sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="495" column="36" selection-start="25149" selection-end="25149" vertical-scroll-proportion="-10.54902" vertical-offset="7877" max-vertical-offset="8755">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="440" column="9" selection-start="20696" selection-end="20696" vertical-scroll-proportion="-146.66667" vertical-offset="0" max-vertical-offset="8857">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="45" selection-start="102" selection-end="102" vertical-scroll-proportion="0.081437126" vertical-offset="0" max-vertical-offset="12886">
+        <state line="654" column="18" selection-start="35286" selection-end="35286" vertical-scroll-proportion="-427.6154" vertical-offset="0" max-vertical-offset="12699">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1394">
           <folding />
         </state>
       </provider>

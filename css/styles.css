@@ -7,17 +7,13 @@ audio, canvas, video { display: inline-block; *display: inline; *zoom: 1; }
 audio:not([controls]) { display: none; }
 [hidden] { display: none; }
 
-
-
 html, body, h1, h2, h3, h4, h5, h6, p, em, strong, abbr, acronym, blockquote, q, cite, ins, del, dfn, a, div, span, pre, hr, address, br, b, i, sub, sup, big, small, tt, table, tr, caption, thead, tbody, tfoot,
 col, colgroup, form, input, label, textarea, button, fieldset, legend, select, option, optiongroup, ul, ol, li, dl, dt, dd, code, var, kdb, samp, img, object, param, map, area, bdo, iframe, article, aside, canvas,
 details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video  {
     padding:0; margin:0; outline:0; font-size:100%;
 }
 
-
 a:focus	{ -moz-outline-style:none; }
-
 
 html {-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;} /* text mobile */
 ::-moz-selection { background: #fe57a1; color: #fff; text-shadow: none; }
@@ -180,10 +176,6 @@ section .title-box {
     font-style: italic;
 }
 
-
-
-
-
 /*-------------------------------------------------
                 HEADER STYLES
 -----------------------------------------------------*/
@@ -199,8 +191,6 @@ section .title-box {
     margin: 0 auto;
     height: 63px;
 }
-
-
 .header .logo {
     float:left;
     padding-top: 17px;
@@ -212,16 +202,13 @@ section .title-box {
     height: 29px;
     display: block;
 }
-
 .header .menu-box {
     float: left;
 }
-
 .header .main-menu ul {
     margin-left: 108px;
     display: inline-block;
 }
-
 .header .main-menu ul li {
     float: left;
     margin: 0 9px;
@@ -253,7 +240,6 @@ section .title-box {
     min-width: 11px;
     position: relative;
 }
-
 .header .soc-box span:before {
     content: '';
     display: block;
@@ -264,31 +250,24 @@ section .title-box {
     top: 0;
     left: -6px;
 }
-
 .header .soc-box span:first-child:before {
     display: none;
 }
-
 .header .soc-box span:last-child {
    margin-right: 0;
 }
-
 .header .soc-box span a {
     display: block;
     height: 10px;
     min-width: 11px;
     background: url(../images/soc.png) no-repeat 0 0;
 }
-
-
 .header .soc-box span.fb a {
     background-position: 0 0;
 }
-
 .header .soc-box span.tw a {
     background-position: -1px -17px;
 }
-
 .header .soc-box span.be a {
     background-position: 0 -34px;
     width: 16px;
@@ -323,10 +302,6 @@ section.slider .slider-wrapper {
     width: 100%;
     text-align: left;
 }
-
-
-
-
 .slider .slide-box-el {
     text-align: center;
     height: 635px;
@@ -353,8 +328,6 @@ section.slider .slider-wrapper {
     bottom: -13px;
     padding: 0 15px;
     left: -15px;
-
-
 }
 .slider .slide-box-el .title {
     font-size: 35px;
@@ -375,8 +348,6 @@ section.slider .slider-wrapper {
     line-height: 30px;
     padding: 0 25px;
 }
-
-
 .slider .slide-box-el .round {
     width: 14px;
     height: 14px;
@@ -408,7 +379,6 @@ section.slider .slider-wrapper {
     position: absolute;
     left: 3px;
     top: 54px;
-
 }
 .slider .slide-box-el .txt {
     display: block;
@@ -454,7 +424,6 @@ section.sliderBlog .flexslider {
 }
 .sliderBlog .slide-box-el {
     text-align: center;
-
 }
 .sliderBlog .flex-direction-nav {
     width: 1600px;
@@ -472,8 +441,6 @@ section.sliderBlog .flexslider {
     color: white;
     line-height: 35px;
     font-size: 35px;
-
-
 }
 .sliderBlog .slide-box-el .el_bg {
     background: url(../images/el_bg_1.png);
@@ -528,7 +495,6 @@ section.sliderSideBar .flexslider {
     -moz-box-shadow: none;
     -o-box-shadow: none;
     zoom: 1;
-
 }
 .sliderSideBar .slide-box-el {
     text-align: center;
@@ -573,10 +539,6 @@ section.sliderSideBar .flexslider {
     display: none;
 }
 
-
-
-
-
 /*------------------------------------------------------
                     Posts-blog
 --------------------------------------------------------*/
@@ -600,7 +562,6 @@ section.posts-box {
     margin-left: 11px;
 
 }
-
 .posts-box .post-item {
     text-align: left;
     display: inline-block;
@@ -656,8 +617,6 @@ section.posts-box {
 .brands li a.case{
     background-position: -69px -5px;
 }
-
-
 .post-text {
     display: block;
     line-height: 25px;
@@ -698,8 +657,6 @@ section.posts-box {
     border-bottom: 1px solid #b7b7b7;
     margin-top: 30px;
     text-align: center;
-
-
 }
 .posts .soc-wrapper ul {
     display: inline-block;
@@ -714,8 +671,6 @@ section.posts-box {
     border: 1px solid #b7b7b7;
     border-radius: 100%;
     margin: 5px;
-
-
 }
 .posts .soc-wrapper li a {
     width: 30px;
@@ -765,7 +720,6 @@ section.posts-box {
     line-height: 25px;
     padding-top: 25px;
     padding-bottom: 80px;
-
 }
 .posts .comment-reply {
     position: absolute;
@@ -774,7 +728,6 @@ section.posts-box {
     display: block;
     font-style: italic;
 }
-
 .posts .comment-reply:before {
     content: '';
     display: block;
@@ -858,7 +811,6 @@ input.searching {
     text-transform: uppercase;
 
 }
-
 .sidebar .title {
     font-family: 'Montserrat', sans-serif;
     font-size: 12px;
@@ -975,9 +927,6 @@ blockquote {
     font-style: italic;
 }
 
-
-
-
 /*-----------------------------------------------
                     About-box
 ---------------------------------------------------*/
@@ -1011,8 +960,6 @@ section.about-box .in-box {
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
 }
-
-
 .about-box button.btn.bt {
     background: white;
     padding: 0 39px;
@@ -1020,7 +967,6 @@ section.about-box .in-box {
 }
 .about-box button.btn.bt .text {
     color:#3e3d3d;
-
 }
 .about-box button.btn:hover {
     background: #3e3d3d;
@@ -1048,11 +994,9 @@ section.about-box .in-box {
     min-width: 45px;
     display:inline-block;
     background: url(../images/atlantida_sprites_1.png) no-repeat;
-
 }
 .about-box .statistic .icon.first {
     background-position: 0 -147px;
-
 }
 .about-box .statistic .icon.second {
     background-position: -41px -49px
@@ -1079,7 +1023,6 @@ section.about-box .in-box {
     line-height: 45px;
     padding-top: 25px;
     padding-bottom:  15px;
-
 }
 
 /*-------------------------------------------------
@@ -1096,7 +1039,6 @@ section.services-box {
 .services-box .title-box a {
     color: #d8d8d8;
 }
-
 .services-box .title-box .white {
    background: url(../images/el_bg_1.png);
 }
@@ -1116,7 +1058,6 @@ section.services-box {
     margin-right: 27px;
     position: relative;
     padding: 53px 0 44px
-
 }
 .services-box .wrapper-box:last-child {
     margin-right: 0;
@@ -1167,7 +1108,6 @@ section.services-box {
     padding-bottom: 28px;
     display: block;
     color: #d8d8d8;
-
 }
 
 .services-box .wrapper-box span.titles span {
@@ -1206,7 +1146,6 @@ section.services-box {
     line-height: 72px;
     display: block;
     margin: 0 auto;
-
 }
 .history-box .wrapper-in-box {
     min-height: 100%;
@@ -1607,7 +1546,6 @@ section.services-box {
 .prices-box p {
     margin: 20px 86px 59px;
 }
-
 .prices-box .block{
     width: 31.7%;
     background: white;
@@ -1625,7 +1563,6 @@ section.services-box {
     font-size: 13px;
     line-height: 18px;
     margin: 44px 0 24px;
-
 }
 .prices-box .block span.icon {
     width: 46px;
@@ -1647,7 +1584,6 @@ section.services-box {
     position: absolute;
     top: 110px;
     left: 19%;
-
 }
 .prices-box .block button.middle {
     padding:0 41px;
@@ -1707,7 +1643,6 @@ section.services-box {
     color: #d8d8d8;
     text-align: left;
     padding:35px 0;
-
 }
 .purchase-box .picture {
     display: inline-block;
@@ -1728,14 +1663,12 @@ section.services-box {
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     line-height: 18px;
-
-   }
+}
 .purchase-box .looking p {
     font-size: 16px;
     line-height: 20px;
     font-style: italic;
     margin-top: 23px;
-    /*margin-bottom: 15px ;*/
 }
 .purchase-box .button {
     width: 27%;
@@ -1857,7 +1790,6 @@ section.services-box {
 .clients-box .logos {
     padding: 0 70px 58px;
     box-sizing: border-box;
-
 }
 
 .clients-box .logo {
@@ -1943,26 +1875,6 @@ section.full-slider {
     margin-top: 15px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-/*---------------------------------------------------
-                    Map
--------------------------------------------------*/
-
-
-
-
-
-
 /*----------------------------------------------------
                     Footer
 -----------------------------------------------------*/
@@ -1974,10 +1886,8 @@ section.full-slider {
 .footer .form-box {
     width: 66%;
     float: right;
-
-
 }
- .form-box .row-box.sec {
+.form-box .row-box.sec {
     margin-right: 0;
 }
 .form-box .row-box {
@@ -1985,7 +1895,7 @@ section.full-slider {
     float: left;
     margin-right: 4%;
 }
- .txt-field {
+.txt-field {
     background: rgba(255,255,255,0);
     border: 2px solid #464646;
     box-sizing: border-box;
@@ -2055,7 +1965,6 @@ textarea.txt-field {
 .footer .info span a {
     color: #e3e3e3;
 }
-
 .footer .soc-box {
     float: left;
     margin: 38px -5px 54px;
@@ -2067,7 +1976,6 @@ textarea.txt-field {
     min-width: 11px;
     position: relative;
 }
-
 .footer.soc-box span:before {
     content: '';
     display: block;
@@ -2078,15 +1986,12 @@ textarea.txt-field {
     top: 0;
     left: -6px;
 }
-
 .footer .soc-box span:first-child:before {
     display: none;
 }
-
 .footer .soc-box span:last-child {
     margin-right: 0;
 }
-
 .footer .soc-box span a {
     display: block;
     height: 10px;
@@ -2096,11 +2001,9 @@ textarea.txt-field {
 .footer.soc-box span.fb a {
     background-position: 0 0;
 }
-
 .footer .soc-box span.tw a {
     background-position: -1px -17px;
 }
-
 .footer .soc-box span.be a {
     background-position: 0 -34px;
     width: 16px;
@@ -2113,7 +2016,6 @@ textarea.txt-field {
     font-style: italic;
     display: block;
     padding: 40px 0 38px 0;
-
 }
 .footer .row .btn {
     background:#464646;
@@ -2131,18 +2033,6 @@ textarea.txt-field {
     background: #e3e3e3;
     color: #464646;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 /*----------------------------------------------------
                     Fonts
